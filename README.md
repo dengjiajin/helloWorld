@@ -1,2 +1,0 @@
-# helloWorld
-helloworld-dev
